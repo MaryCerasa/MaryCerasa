@@ -17,7 +17,7 @@ In my free time you can find me learning to play golf :golf: (my handicap is a w
 <br>
  
 ## :notebook: Portfolio: 
-https://marycerasa.com
+https://marycerasa.dev
 <br>
 
 ## 📫 Socials: 
