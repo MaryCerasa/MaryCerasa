@@ -1,4 +1,4 @@
-Hi there, I’m ___Mary___! :revolving_hearts:
+Hi there, I’m ___Mary___! 
 ## Former technical writer :black_nib: turned full-stack engineer and freelance web dev :computer: , who wants to build meaningful web experiences via clean and accessible code :blush:
 __*About Me:*__
 <br>
@@ -54,7 +54,7 @@ https://marycerasa.dev
 
 ## 📌 Pinned Repositories:
 <br> 
-<a href="https://marycerasa.github.io/wdi-project-one/">
+<a href="https://github.com/MaryCerasa/wdi-project-one/">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=marycerasa&repo=wdi-project-one&title_color=##FFC0CB&text_color=#FFFFF&icon_color=4AB197&bg_color=1A2B34" />
 </a>  
 <br>
