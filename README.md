@@ -58,7 +58,7 @@ https://marycerasa.dev
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=marycerasa&repo=wdi-project-one&title_color=##FFC0CB&text_color=#FFFFF&icon_color=4AB197&bg_color=1A2B34" />
 </a>  
 <br>
-<a href="https://github.com/MaryCerasa/wdi-Project-4">
+<a href="https://github.com/MaryCerasa/wdi-project-4">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=marycerasa&repo=wdi-project-4&title_color=#ADD8E6&text_color=#FFFFF&icon_color=4AB197&bg_color=1A2B34" />
 </a>      
 <br>
