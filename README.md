@@ -1,5 +1,5 @@
 Hi there, I’m ___Mary___! 
-## Former technical writer :black_nib: turned full-stack engineer and freelance web dev :computer: , who wants to build meaningful web experiences via clean and accessible code :blush:
+## Former technical writer turned full-stack engineer and freelance web developer, who wants to build meaningful web experiences via clean and accessible code :blush:
 __*About Me:*__
 <br>
 I've lived and worked in 5 countries :earth_americas:
