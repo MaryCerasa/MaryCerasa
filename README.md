@@ -1,19 +1,17 @@
 Hi there, I’m ___Mary___! 
-## Former technical writer turned full-stack engineer and freelance web developer, who wants to build meaningful web experiences via clean and accessible code :blush:
+## Former technical writer turned full-stack engineer and freelance web developer, who wants to build meaningful web experiences via clean and accessible code.
 __*About Me:*__
 <br>
 I've lived and worked in 5 countries :earth_americas:
 <br>
-I’m passionate about web accessibility and inclusive design
-<br>
-I’m currently building apps and websites that can assist people with disabilities, both visible and hidden :wheelchair:
+I’m passionate about web accessibility, inclusive design and seeing imagination come to life through code.
 <br>
 I believe in making careers in tech more attainable and accessible for everyone
 <br> 
 
 __*Hobbies:*__ 
 <br>
-In my free time you can find me learning to play golf :golf: (my handicap is a work in progress), writing articles on web accessibility and reading :books:
+In my free time you can find me learning to play golf :golf: (my handicap is a work in progress), running and reading :books:
 <br>
  
 ## :notebook: Portfolio: 
