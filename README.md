@@ -6,7 +6,7 @@ I've lived and worked in 5 countries :earth_americas:
 <br>
 I’m passionate about web accessibility, inclusive design and seeing imagination come to life through code.
 <br>
-I believe in making careers in tech more attainable and accessible for everyone
+I believe in making careers in tech more attainable and accessible for everyone.
 <br> 
 
 __*Hobbies:*__ 
