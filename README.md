@@ -1,32 +1,24 @@
-Hi there, I’m ___Mary___! 
+Hello, I’m ___Mary___..
 ## Technical writer & full-stack engineer, building meaningful web experiences.
-__*About Me:*__
+__*A bit about me:*__
 <br>
-Seeing imagination come to life through code.
-<br>
-I believe in making careers in tech more attainable and accessible for everyone.
+ I enjoy seeing imagination come to life through code and believe in making careers in tech attainable for everyone. 
 <br> 
 
 __*Hobbies:*__ 
 <br>
-In my free time you can find me learning to play golf :golf:, running and reading :books:
+In my free time you can find me playing golf, running and reading.
 <br>
  
-## :notebook: Portfolio: 
+## Portfolio: 
 Available upon request
 <br>
 
-## 📫 Socials: 
-//
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mary_cerasa)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/marycerasa/)
-[![Hashnode Badge](https://img.shields.io/badge/Hashnode-Profile-informational?style=flat&logo=hashnode&logoColor=white&color=1CA2F1)](https://hashnode.com/@mserahsa)
-[![Polywork Badge](https://img.shields.io/badge/Polywork-Profile-informational?style=flat&logo=polywork&logoColor=white&color=1CA2F1)](https://www.polywork.com/mserahsa)
+## Thanks for visiting ;)
 [![Visits Badge](https://badges.pufler.dev/visits/marycerasa/marycerasa)](www.github.com/marycerasa)
 <br>
-//
 
-## 🔨 Tech Stack:
+## Tech Stack:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
@@ -45,7 +37,7 @@ Available upon request
 ![](https://img.shields.io/badge/Editor-SublimeText-informational?style=flat&logo=sublimetext&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=4AB197)
 
-## 🚀 Currently Learning:
+## Currently Learning:
 ![](https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=bash&logoColor=white&color=4AB197)
