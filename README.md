@@ -1,30 +1,30 @@
 Hi there, I’m ___Mary___! 
-## Former technical writer turned full-stack engineer and freelance web developer, who wants to build meaningful web experiences via clean and accessible code.
+## Technical writer & full-stack engineer, building meaningful web experiences.
 __*About Me:*__
 <br>
-I've lived and worked in 5 countries :earth_americas:
-<br>
-I’m passionate about web accessibility, inclusive design and seeing imagination come to life through code.
+Seeing imagination come to life through code.
 <br>
 I believe in making careers in tech more attainable and accessible for everyone.
 <br> 
 
 __*Hobbies:*__ 
 <br>
-In my free time you can find me learning to play golf :golf: (my handicap is a work in progress), running and reading :books:
+In my free time you can find me learning to play golf :golf:, running and reading :books:
 <br>
  
 ## :notebook: Portfolio: 
-www.marycerasa.dev
+Available upon request
 <br>
 
 ## 📫 Socials: 
+//
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/mary_cerasa)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/marycerasa/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-Profile-informational?style=flat&logo=hashnode&logoColor=white&color=1CA2F1)](https://hashnode.com/@mserahsa)
 [![Polywork Badge](https://img.shields.io/badge/Polywork-Profile-informational?style=flat&logo=polywork&logoColor=white&color=1CA2F1)](https://www.polywork.com/mserahsa)
 [![Visits Badge](https://badges.pufler.dev/visits/marycerasa/marycerasa)](www.github.com/marycerasa)
 <br>
+//
 
 ## 🔨 Tech Stack:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
