@@ -1,4 +1,3 @@
-Hello, I’m ___Mary___..
 ## Technical writer & full-stack engineer, building meaningful web experiences.
 __*A bit about me:*__
 <br>
